@@ -1,0 +1,27 @@
+{
+  "name": "keen-unicoder",
+  "version": "1.0.0",
+  "description": "Map English letters to unicode representing Galactic Alphabet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dance-dance-banana-frenzy/keen-unicoder.git"
+  },
+  "keywords": [
+    "galactic",
+    "alphabet",
+    "unicode",
+    "commander",
+    "keen",
+    "minecraft"
+  ],
+  "author": "Lewis Moten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dance-dance-banana-frenzy/keen-unicoder/issues"
+  },
+  "homepage": "https://github.com/dance-dance-banana-frenzy/keen-unicoder#readme"
+}
