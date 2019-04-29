@@ -19,3 +19,5 @@ Not all characters  appear exactly as the galactic standard alphabet. After obse
 Attempts were made to avoid tofu in the character selection. Your operating system must have a font that supports displaying the unicode characters returned. That font must be used in the location you are viewing (terminal, code editor, web page) the results.
 
 See [candidates](./unicode.md) that can be substituted.
+
+View as [忄ᒷᒷㇼ](./README-keen.md).
