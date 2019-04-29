@@ -25,7 +25,8 @@ const galacticStandardAlphabet = {
   x: '\ua718', // MODIFIER LETTER DOT SLASH
   y: '\u{1d101}', // MUSICAL SYMBOL DOUBLE BARLINE
   y: '\u{1d361}', // COUNTING ROD UNIT DIGIT TWO
-  z: '\u0548' // ARMENIAN CAPITAL LETTER VO
+  z: '\u0548', // ARMENIAN CAPITAL LETTER VO
+  ".": '._.'
 }
 
 const toGalacticStandardAlphabet = char =>
